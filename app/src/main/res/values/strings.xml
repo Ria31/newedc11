@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">newedc11</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="email_id_or_phone_number">Email Id or Phone Number</string>
+    <string name="submit">Submit</string>
+    <string name="registration">Registration</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="next">Next</string>
+    <string name="bdy">EDC22</string>
+    <string name="day">Date</string>
+    <string name="name">Name</string>
+    <string name="date_of_birth">Date of Birth :</string>
+    <string name="welcome">Welcome</string>
+    <string name="todo">TODO</string>
+    <string name="employee_digital_care">Employee Digital Care</string>
+    <string name="user_type">User Type</string>
+    <string-array name="datearray">
+        <item>Date</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="montharray">
+        <item>Month</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="yeararray">
+        <item>Year</item>
+        <item>1990</item>
+        <item>1991</item>
+        <item>1992</item>
+        <item>1993</item>
+        <item>1994</item>
+        <item>1995</item>
+        <item>1996</item>
+        <item>1997</item>
+        <item>1998</item>
+        <item>1999</item>
+        <item>2000</item>
+    </string-array>
+    <string-array name="selectarray">
+        <item>Select</item>
+        <item>Employee</item>
+        <item>Safety Officer</item>
+        <item>Doctor</item>
+        <item>Admin</item>
+    </string-array>
+</resources>
